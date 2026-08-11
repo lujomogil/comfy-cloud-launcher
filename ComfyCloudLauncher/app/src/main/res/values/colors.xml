@@ -1,0 +1,7 @@
+<resources>
+    <color name="comfy_background">#121212</color>
+    <color name="comfy_surface">#1E1E1E</color>
+    <color name="comfy_text">#FFFFFF</color>
+    <color name="comfy_text_secondary">#AAAAAA</color>
+    <color name="comfy_accent">#FF6A00</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ComfyCloudLauncher" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/comfy_accent</item>
+        <item name="colorPrimaryDark">@color/comfy_background</item>
+        <item name="colorAccent">@color/comfy_accent</item>
+        <item name="android:windowBackground">@color/comfy_background</item>
+    </style>
+</resources>

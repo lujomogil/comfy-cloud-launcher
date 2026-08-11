@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comfy Cloud Launcher</string>
+    <string name="add_app_title">Agregar app</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="name_hint">Nombre (ej: Retrato IA)</string>
+    <string name="url_hint">Link de App Mode (https://cloud.comfy.org/?share=...)</string>
+    <string name="empty_state">No hay apps guardadas todavía. Tocá "Agregar app" para sumar tu primer link de App Mode.</string>
+</resources>
